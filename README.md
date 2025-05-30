@@ -106,7 +106,23 @@ Visit `http://localhost:5173` in your browser.
 
 ## 📸 Screenshots
 
-> *(Add your app screenshots here to showcase the UI)*
+![Image](https://github.com/user-attachments/assets/776d5d17-9be1-4334-9525-5c912e582620)
+
+---
+
+![Image](https://github.com/user-attachments/assets/62b8d439-6886-46ec-84a0-857ee4892904)
+
+---
+
+![Image](https://github.com/user-attachments/assets/43f76e1b-24cd-4d6b-9476-9c113b7afb82)
+
+---
+
+![Image](https://github.com/user-attachments/assets/a55d51af-d95e-4c09-b24b-30aca89ebb30)
+
+---
+
+![Image](https://github.com/user-attachments/assets/1bb359fb-76d2-4c9e-b8f4-d173e671a52d)
 
 ---
 
